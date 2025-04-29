@@ -1,6 +1,4 @@
-🌿 **Security-Focused Full-Stack Developer** | **Security Engineer** | **Cloud Architect** 🌿
-
-## 🛠️ Tech Stack
+## 🌿 **Security-Focused Full-Stack Developer** | **Security Engineer** | **Cloud Architect** 🌿
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,remix,vite)](https://skillicons.dev)
