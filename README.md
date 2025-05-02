@@ -1,14 +1,13 @@
 ## 🍀🌱🌿 **Full-Stack Developer** | **Security Engineer | Cybersecurity** 🌿🌱🍀
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,remix,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,reactivex,remix,vite,tailwind)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,linux,bash,c,lua)](https://skillicons.dev)
 
 ### Cybersecurity Toolkit
-![Tools](https://skillicons.dev/icons?i=kali,linux)
-
+[![My Skills](https://skillicons.dev/icons?i=kali,raspberrypi)](https://skillicons.dev)
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=flat)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=flat&logo=hex-rays&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=netgate&logoColor=white)
@@ -25,11 +24,12 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
 
 ### ORMs
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0909?style=for-the-badge&logo=typeorm&logoColor=white)
 ![MikroORM](https://img.shields.io/badge/MikroORM-000000?style=for-the-badge)
 
 ### DevOps & Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,github,git,caddy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,github,git,npm)](https://skillicons.dev)
 
 ### Security Tools
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elasticstack&logoColor=white)
@@ -37,6 +37,9 @@
 ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=white)
 ![Immunity Debugger](https://img.shields.io/badge/Immunity_Debugger-000000?style=flat&logo=immunity&logoColor=white)
 ![Remnux](https://img.shields.io/badge/Remnux-000000?style=flat&logo=remnux&logoColor=white)
+
+### Documentation
+[![My Skills](https://skillicons.dev/icons?i=latex,obsidian)](https://skillicons.dev)
 
 
 ![Header](./header.jpg)
