@@ -1,4 +1,4 @@
-## 🍀🌱🌿 **Full-Stack Developer** | **Security Engineer | Cybersecurity** 🌿🌱🍀
+## 🍀🌱🌿 **Full-Stack Developer** | **Security Engineer ** 🌿🌱🍀
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,reactivex,remix,vite,tailwind)](https://skillicons.dev)
