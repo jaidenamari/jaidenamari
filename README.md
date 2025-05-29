@@ -1,4 +1,6 @@
-## 🍀🌱🌿 **Full-Stack Developer** | **Security Engineer ** 🌿🌱🍀
+## 🍀🌱🌿 **Full-Stack Developer** | **Security Engineer** 🌿🌱🍀
+
+These are some of the tools and frameworks Im faimiliar with and have used on project past and present.
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,reactivex,remix,vite,tailwind)](https://skillicons.dev)
